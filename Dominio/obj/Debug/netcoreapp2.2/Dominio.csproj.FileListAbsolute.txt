@@ -1,0 +1,11 @@
+C:\Users\Root\Documents\Desafio\Dominio\obj\Debug\netcoreapp2.2\Dominio.csprojAssemblyReference.cache
+C:\Users\Root\Documents\Desafio\Dominio\obj\Debug\netcoreapp2.2\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\Desafio\Dominio\obj\Debug\netcoreapp2.2\Dominio.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\Desafio\Dominio\obj\Debug\netcoreapp2.2\Dominio.AssemblyInfo.cs
+C:\Users\Root\Documents\Desafio\Dominio\bin\Debug\netcoreapp2.2\Dominio.deps.json
+C:\Users\Root\Documents\Desafio\Dominio\bin\Debug\netcoreapp2.2\Dominio.runtimeconfig.json
+C:\Users\Root\Documents\Desafio\Dominio\bin\Debug\netcoreapp2.2\Dominio.runtimeconfig.dev.json
+C:\Users\Root\Documents\Desafio\Dominio\bin\Debug\netcoreapp2.2\Dominio.dll
+C:\Users\Root\Documents\Desafio\Dominio\bin\Debug\netcoreapp2.2\Dominio.pdb
+C:\Users\Root\Documents\Desafio\Dominio\obj\Debug\netcoreapp2.2\Dominio.dll
+C:\Users\Root\Documents\Desafio\Dominio\obj\Debug\netcoreapp2.2\Dominio.pdb
