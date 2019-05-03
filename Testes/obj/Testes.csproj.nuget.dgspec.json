@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Root\\Documents\\Desafio\\Teste\\Teste.csproj": {}
+    "C:\\Users\\Root\\Documents\\Desafio\\Testes\\Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Root\\Documents\\Desafio\\Teste\\Teste.csproj": {
+    "C:\\Users\\Root\\Documents\\Desafio\\Testes\\Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Root\\Documents\\Desafio\\Teste\\Teste.csproj",
-        "projectName": "Teste",
-        "projectPath": "C:\\Users\\Root\\Documents\\Desafio\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\Root\\Documents\\Desafio\\Testes\\Testes.csproj",
+        "projectName": "Testes",
+        "projectPath": "C:\\Users\\Root\\Documents\\Desafio\\Testes\\Testes.csproj",
         "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Root\\Documents\\Desafio\\Teste\\obj\\",
+        "outputPath": "C:\\Users\\Root\\Documents\\Desafio\\Testes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,7 +41,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[15.9.0, )"
+              "version": "[16.0.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -49,13 +49,13 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
-            "NUnit3TestAdapter": {
+            "xunit": {
               "target": "Package",
-              "version": "[3.11.0, )"
+              "version": "[2.4.0, )"
             },
-            "nunit": {
+            "xunit.runner.visualstudio": {
               "target": "Package",
-              "version": "[3.11.0, )"
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
