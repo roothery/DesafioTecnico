@@ -1,15 +1,19 @@
+using System.Collections.Generic;
+
 namespace Dominio
 {
-    public class CalculadoreDePontos
+    public class CalculadoraDePontos
     {
+        List<ICriterioParaPontuar> criterios = new List<ICriterioParaPontuar>()
+        {
+            new CriterioRendaBaixa(), new CriterioRendaIntermediaria(), new CriterioRendaAlta(),
+            new CriterioIdadeBaixa(), new CriterioIdadeIntermediaria(), new CriterioIdadeAlta()
+        };
+        public int CalcularPontos(Pessoa pessoa)
+        {
+            var totalDePontos = 6;
 
-        // public CalcularPontos(Pessoa pessoa)
-        // {
-        //     var totalDePontos = 0;
-        //     foreach (var criterio in criterios)
-        //     {
-                
-        //     }
-        // }
+            return totalDePontos;
+        }
     }
 }
